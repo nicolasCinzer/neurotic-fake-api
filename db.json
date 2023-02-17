@@ -183,25 +183,25 @@
       }
     ],
     "debtors": {
-      "12241121": {
-        "debt": 5000,
-        "lastDate": 10022020
+      "Catalina": {
+        "debt": "5000 COP",
+        "lastDate": 1676665737
       },
-      "12311241": {
-        "debt": 5000,
-        "lastDate": 10022020
+      "Martin": {
+        "debt": "5000 COP",
+        "lastDate": 1676665737
       },
-      "12311421": {
-        "debt": 5000,
-        "lastDate": 10022020
+      "Martha": {
+        "debt": "5000 COP",
+        "lastDate": 1676665737
       },
-      "12312421": {
-        "debt": 5000,
-        "lastDate": 10022020
+      "Jessy": {
+        "debt": "5000 COP",
+        "lastDate": 1676665737
       },
-      "12314124": {
-        "debt": 5000,
-        "lastDate": 10022020
+      "Dani": {
+        "debt": "5000 COP",
+        "lastDate": 1676665737
       }
     },
     "totalBudget": 10000
