@@ -89,7 +89,7 @@
             "date": "24/1/2023"
           }
         ],
-        "total": 1
+        "total": "10000 COP"
       },
       {
         "name": "Pennys",
@@ -179,7 +179,7 @@
             "date": "24/1/2023"
           }
         ],
-        "total": 2
+        "total": "50000 COP"
       }
     ],
     "debtors": {
@@ -204,6 +204,6 @@
         "lastDate": 1676665737
       }
     },
-    "totalBudget": 10000
+    "totalBudget": "10000 COP"
   }
 }
