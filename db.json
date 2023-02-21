@@ -95,13 +95,6 @@
         "name": "Pennys",
         "list": [
           {
-            "id": 1,
-            "title": "Mercado",
-            "tag": "Market",
-            "money": "5000 COP",
-            "date": "24/1/2023"
-          },
-          {
             "id": 2,
             "title": "Proteina",
             "tag": "Gym",
