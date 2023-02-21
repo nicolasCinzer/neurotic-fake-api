@@ -205,5 +205,6 @@
       }
     },
     "totalBudget": "10000 COP"
-  }
+  },
+  "gym": { "total": "10000 COP" }
 }
