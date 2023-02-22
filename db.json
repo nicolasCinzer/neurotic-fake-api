@@ -88,5 +88,5 @@
       "lastDate": 1676665737
     }
   ],
-  "totalBudget": ["10000 COP"]
+  "totalBudget": [{ "id": 1, "budget": "10000 COP" }]
 }
