@@ -87,5 +87,6 @@
       "debt": "5000 COP",
       "lastDate": 1676665737
     }
-  ]
+  ],
+  "budget": [{ "id": 1, "total": "50000 COP" }]
 }
