@@ -64,26 +64,31 @@
   "debtors": [
     {
       "id": 1,
+      "name": "Catalina",
       "debt": "5000 COP",
       "lastDate": 1676665737
     },
     {
       "id": 2,
+      "name": "Roman",
       "debt": "5000 COP",
       "lastDate": 1676665737
     },
     {
       "id": 3,
+      "name": "Roma",
       "debt": "5000 COP",
       "lastDate": 1676665737
     },
     {
       "id": 4,
+      "name": "Carlos",
       "debt": "5000 COP",
       "lastDate": 1676665737
     },
     {
       "id": 5,
+      "name": "Carla",
       "debt": "5000 COP",
       "lastDate": 1676665737
     }
